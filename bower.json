@@ -1,5 +1,6 @@
 {
   "name": "neustar-ui-bootstrap",
+  "version":"v1.0",
   "main": [
     "ui-bootstrap-custom-0.12.1.js",
     "ui-bootstrap-custom-tpls-0.12.1.js"
@@ -9,15 +10,4 @@
     ".gitignore",
     "README.md",
     "screenshot.png"
-  ],
-  "homepage": "https://github.com/johnwun/neustar-ui-bootstrap/",
-  "_release": "f5be2a00eb",
-  "_resolution": {
-    "type": "branch",
-    "branch": "master",
-    "commit": "fda1548a894d5fda03039ad7e8fa4080d9ffc921"
-  },
-  "_source": "https://github.com/johnwun/angular-multi-select.git",
-  "_target": "master",
-  "_originalSource": "https://github.com/johnwun/angular-multi-select.git"
-}
+  ]
