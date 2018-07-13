@@ -1,0 +1,23 @@
+{
+  "name": "neustar-ui-bootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap based angular widgets",
+  "keywords": [
+    "bootstrap",
+    "angular",
+    "widgets"
+  ],
+  "dependencies": {
+    "angular": "^1.5.*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnwun/neustar-ui-bootstrap/"
+  },
+  "main":
+    "ui-bootstrap-custom-0.12.1.js",
+  "scripts": {
+  },
+  "author": "John Wundes <johnw@neustar.biz>",
+  "license": "MIT"
+}
